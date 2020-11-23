@@ -53,7 +53,8 @@ p {
 
 #welcome .bg-image {
   position: absolute;
-  background: #333 url(/blob/gh-pages/img/galaxy_nebula.jpg);
+  background: #333
+    url(https://marcelosbrito.github.io/css-grid/img/galaxy_nebula.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
